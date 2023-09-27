@@ -1,7 +1,3 @@
-## Customize_Bootstrap_with_Sass
-
-How to customize Bootstrap with Sass
-
 ### How to install
 
 Clone this repo and run: `npm install`.
